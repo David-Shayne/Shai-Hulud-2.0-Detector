@@ -1145,6 +1145,6 @@ This tool is for **defensive security purposes only**. It:
 
 <p align="center">
   <a href="https://github.com/gensecaihq/Shai-Hulud-2.0-Detector">⭐ Star this repo</a> •
-  <a href="https://github.com/gensecaihq/Shai-Hulud-2.0-Detector/issues">🐛 Report Bug</a> •
-  <a href="https://github.com/gensecaihq/Shai-Hulud-2.0-Detector/issues">💡 Request Feature</a>
+  <a href="https://github.com/gensecaihq/Shai-Hulud-2.0-Detector/issues">Report Bug</a> •
+  <a href="https://github.com/gensecaihq/Shai-Hulud-2.0-Detector/issues">Request Feature</a>
 </p>
