@@ -834,6 +834,7 @@ When running locally or in non-GitHub CI systems:
 
 ------------------------------------------------------------
   Files scanned: 2
+  Total dependencies: 1000
   Scan time: 67ms
   Database version: 2.0.0
 ============================================================
